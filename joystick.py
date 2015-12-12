@@ -12,7 +12,6 @@ arduino.connect()
 if arduino.isOpen():
 	arduino.write("start".encode())
 	i = 1
-	positions = []
 	position = []
 	while True:
 		s = search("[0-9]",str(arduino.readline()))
