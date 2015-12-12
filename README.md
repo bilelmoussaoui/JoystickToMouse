@@ -6,6 +6,9 @@ Joystick to mouse using Arduino and Python.
   2. An Arduino board 
   3. 5x male to female Jumper Wires
 
+### How to use :
+
+
 ### Python dependencies 
   - `python3-pyserial`
   - `python3-pyautogui`
